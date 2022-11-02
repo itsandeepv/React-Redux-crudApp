@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Deepak verma",
+      "email": "sandyprogit@gmail",
+      "address": "pabra",
+      "contact": "8059559914"
+    },
+    {
+      "name": "Sandeep",
+      "email": "sandyprogit@gmail",
+      "address": "Hisat haryana, India",
+      "contact": "8059559914",
+      "id": 3
+    }
+  ]
+}
